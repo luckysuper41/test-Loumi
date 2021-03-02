@@ -1,0 +1,7 @@
+.box_multi_item{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
